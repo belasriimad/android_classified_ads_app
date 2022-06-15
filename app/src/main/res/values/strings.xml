@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">eAsk</string>
+    <string name="photo_de_profile">Photo de profile</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="recents">Récents</string>
+    <string name="favouris">Favoris</string>
+    <string name="carte">Carte</string>
+    <string name="login">Connexion</string>
+    <string name="email_username">Email</string>
+    <string name="password">Mot de passe</string>
+    <string name="connect">Valider</string>
+    <string name="Register">Valider</string>
+    <string name="create">Créer</string>
+    <string name="full_name">Nom &amp Prenom</string>
+    <string name="email">Email</string>
+    <string name="Contact">Contact</string>
+    <string name="Send">Envoyer</string>
+    <string name="post_ad">Ajouter</string>
+    <string name="title">Titre</string>
+    <string name="body">Description</string>
+    <string name="add_add">Add</string>
+    <string name="call">Appel</string>
+    <string name="sms">Sms</string>
+    <string name="e_mail">E-mail</string>
+    <string name="update_user">Modifier</string>
+    <string name="phone">Tél</string>
+    <string name="description">Description</string>
+    <string name="login_text">Connexion</string>
+    <string name="register">Inscription</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/callAdUser"
+        android:title="@string/call"
+        android:orderInCategory="1"
+        android:icon="@drawable/ic_phone_black_24dp"></item>
+    <item
+        android:id="@+id/SendSms"
+        android:title="@string/sms"
+        android:icon="@drawable/ic_message_black_24dp"
+        android:orderInCategory="2"></item>
+    <item
+        android:id="@+id/SendEmail"
+        android:title="@string/e_mail"
+        android:icon="@drawable/ic_email_black_24dp"
+        android:orderInCategory="3"></item>
+</menu>

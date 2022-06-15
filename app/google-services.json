@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "188473087137",
+    "firebase_url": "https://eask-ead0a.firebaseio.com",
+    "project_id": "eask-ead0a",
+    "storage_bucket": "eask-ead0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188473087137:android:e05ed87b576643c6",
+        "android_client_info": {
+          "package_name": "com.example.belasri.hiresell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188473087137-5s5nfovk69630j7qhhhcmas57imp1mag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxHNY2pTGazNALyeinweyHsr0NLD9yP_I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
